@@ -20,9 +20,6 @@ The goal is to build an intuitive understanding of supervised learning, optimiza
 
 ---
 
-## Project structure
----
-
 ## My contribution
 
 - Studied and refactored the original notebook
